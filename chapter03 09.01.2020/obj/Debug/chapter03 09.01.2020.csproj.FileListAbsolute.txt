@@ -1,0 +1,10 @@
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\bin\Debug\chapter03 09.01.2020.exe.config
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\bin\Debug\chapter03 09.01.2020.exe
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\bin\Debug\chapter03 09.01.2020.pdb
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\obj\Debug\chapter03 09.01.2020.csprojAssemblyReference.cache
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\obj\Debug\chapter03_09._01._2020.frmMain.resources
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\obj\Debug\chapter03_09._01._2020.Properties.Resources.resources
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\obj\Debug\chapter03 09.01.2020.csproj.GenerateResource.cache
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\obj\Debug\chapter03 09.01.2020.csproj.CoreCompileInputs.cache
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\obj\Debug\chapter03 09.01.2020.exe
+C:\Deidre\Deidre\chapter03 09.01.2020\chapter03 09.01.2020\obj\Debug\chapter03 09.01.2020.pdb
